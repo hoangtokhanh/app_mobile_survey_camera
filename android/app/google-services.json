@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990760600659",
+    "project_id": "appsurveyplace",
+    "storage_bucket": "appsurveyplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990760600659:android:6f71cb78710b8d3cfef2a6",
+        "android_client_info": {
+          "package_name": "com.example.app_mobile_survey_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990760600659-17gbft4e6k73u7sf974fgetj7s129emk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_mobile_survey_camera",
+            "certificate_hash": "b2027c19550ff0b8b4ae3a4a5e2315b2d4b074cb"
+          }
+        },
+        {
+          "client_id": "990760600659-6thf6rc7lsuie3a7g92ph1njanv7kt54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPIccP14dpxBxQ_wk70mLk6MjKKhPIQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990760600659-6thf6rc7lsuie3a7g92ph1njanv7kt54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
